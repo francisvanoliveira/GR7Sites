@@ -357,6 +357,10 @@ section{
     opacity: 0.7;
 }
 
+.title span{
+    color: var(--mount-meadow);
+}
+
 /* FAQ */
 .faq{
     background: #f9f9f9;
